@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\taask4\taask4\bin\Debug\netcoreapp3.1\taask4.exe
+C:\Users\Hp\source\repos\taask4\taask4\bin\Debug\netcoreapp3.1\taask4.deps.json
+C:\Users\Hp\source\repos\taask4\taask4\bin\Debug\netcoreapp3.1\taask4.runtimeconfig.json
+C:\Users\Hp\source\repos\taask4\taask4\bin\Debug\netcoreapp3.1\taask4.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\taask4\taask4\bin\Debug\netcoreapp3.1\taask4.dll
+C:\Users\Hp\source\repos\taask4\taask4\bin\Debug\netcoreapp3.1\taask4.pdb
+C:\Users\Hp\source\repos\taask4\taask4\obj\Debug\netcoreapp3.1\taask4.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\taask4\taask4\obj\Debug\netcoreapp3.1\taask4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\taask4\taask4\obj\Debug\netcoreapp3.1\taask4.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\taask4\taask4\obj\Debug\netcoreapp3.1\taask4.AssemblyInfo.cs
+C:\Users\Hp\source\repos\taask4\taask4\obj\Debug\netcoreapp3.1\taask4.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\taask4\taask4\obj\Debug\netcoreapp3.1\taask4.dll
+C:\Users\Hp\source\repos\taask4\taask4\obj\Debug\netcoreapp3.1\taask4.pdb
+C:\Users\Hp\source\repos\taask4\taask4\obj\Debug\netcoreapp3.1\taask4.genruntimeconfig.cache

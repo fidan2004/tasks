@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\taask5\taask5\bin\Debug\netcoreapp3.1\taask5.exe
+C:\Users\Hp\source\repos\taask5\taask5\bin\Debug\netcoreapp3.1\taask5.deps.json
+C:\Users\Hp\source\repos\taask5\taask5\bin\Debug\netcoreapp3.1\taask5.runtimeconfig.json
+C:\Users\Hp\source\repos\taask5\taask5\bin\Debug\netcoreapp3.1\taask5.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\taask5\taask5\bin\Debug\netcoreapp3.1\taask5.dll
+C:\Users\Hp\source\repos\taask5\taask5\bin\Debug\netcoreapp3.1\taask5.pdb
+C:\Users\Hp\source\repos\taask5\taask5\obj\Debug\netcoreapp3.1\taask5.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\taask5\taask5\obj\Debug\netcoreapp3.1\taask5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\taask5\taask5\obj\Debug\netcoreapp3.1\taask5.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\taask5\taask5\obj\Debug\netcoreapp3.1\taask5.AssemblyInfo.cs
+C:\Users\Hp\source\repos\taask5\taask5\obj\Debug\netcoreapp3.1\taask5.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\taask5\taask5\obj\Debug\netcoreapp3.1\taask5.dll
+C:\Users\Hp\source\repos\taask5\taask5\obj\Debug\netcoreapp3.1\taask5.pdb
+C:\Users\Hp\source\repos\taask5\taask5\obj\Debug\netcoreapp3.1\taask5.genruntimeconfig.cache
